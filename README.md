@@ -21,5 +21,5 @@ Control Support Tool for Dart Package Management System "Pub".
 まだレポジトリをしていない場合はクローンをしてから上記手順を行うか、クローンせずに以下のコマンドを実行する。
 
 ```sh
-> dart pub global activate --sgit https://github.com/halka9000stg/DartPkg_Support.git
+> dart pub global activate -sgit https://github.com/halka9000stg/DartPkg_Support.git
 ```
