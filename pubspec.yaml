@@ -1,0 +1,19 @@
+name: dartpkg_support
+description: A simple command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+
+dependencies:
+  file: ^6.1.2
+  shell: ^2.0.0
+#   path: ^1.8.0
+
+executables:
+  dartpkg:
+
+# dev_dependencies:
+#   lints: ^1.0.0
