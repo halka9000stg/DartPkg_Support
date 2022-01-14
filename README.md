@@ -23,3 +23,8 @@ Control Support Tool for Dart Package Management System "Pub".
 ```sh
 > dart pub global activate -sgit https://github.com/halka9000stg/DartPkg_Support.git
 ```
+
+↑ この git からのアクティベートコマンド打つの面倒くさい場合は、それに備えて([tools ディレクトリ](./tools)に)シェルスクリプトを用意してあるのでそれを用いる。
+
+- Windows: [init.bat](./tools/init.bat)
+- Linux: [init.sh](./tools/init.sh)
