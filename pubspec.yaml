@@ -1,11 +1,10 @@
 name: dartpkg_support
-description: A simple command-line application.
+description: Control Support Tool for Dart Package Management System "Pub".
 version: 1.0.0
 # homepage: https://www.example.com
 
 environment:
-  sdk: '>=2.14.4 <3.0.0'
-
+  sdk: ">=2.14.4 <3.0.0"
 
 dependencies:
   file: ^6.1.2
@@ -14,6 +13,5 @@ dependencies:
 
 executables:
   dartpkg:
-
 # dev_dependencies:
 #   lints: ^1.0.0
