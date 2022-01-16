@@ -1,4 +1,4 @@
-import "package:dartpkg_support/src/styler.dart";
+import "package:dartpkg_support/src/lib/styler.dart";
 void main(){
   List<String> pathTestCand = [];
   List<String> pkgTestCand = ["like_this_sty","LikeThisSty"];
